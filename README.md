@@ -1,7 +1,7 @@
 Course: Programming For Problem Solving (U26CS101) Institute: Lords Institute of Engineering and Technology Branch: CSM-A | I-BE, I-Semester (LR26) Unit: 2
 
-Name: SYED SHUJA MUSTAFA
-Roll No: 160926748019
+Name: MOHAMMED TALHA 
+Roll No: 160926748031
 About
 C solutions for Assignment-2, solved and accepted on 
 
